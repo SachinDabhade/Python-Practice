@@ -1,0 +1,17 @@
+* Errors in Python
+1. Pip is not recognozed as an internal or external command
+Ans:1. Add The python pip means scripts to the path of system variable
+    2. Add main python folder path to the path of system variable
+
+2. Module Error - Pyaudio module is not founding
+Ans:Run the commands
+    1. pip install pipwin
+    2. pipwin install pyaudio
+
+3. While installing IDE for first time, we have to config the intrepreter for running the code, How to setup this things
+Ans:1. Install the python and add it to the path variable
+    2. Install the IDE (Integrated Development Environment) amd setup as follows
+        a. Choose the System intrepreter instead of Environment variable
+        b. Choose the three dots in select entrepreter and go to the system inrrepreter and select the python version you have to choose
+
+4.
